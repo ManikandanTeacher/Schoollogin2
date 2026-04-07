@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "emis": "0123456789",
+      "name": "Lakshmi Chandran",
+      "class": "12",
+      "section": "A",
+      "rollNo": "2",
+      "dob": "2007-12-01",
+      "phone": "9876543219"
+    },
+    {
+      "emis": "1234567890",
+      "name": "Arjun Krishnamurthy",
+      "class": "10",
+      "section": "A",
+      "rollNo": "1",
+      "dob": "2009-04-15",
+      "phone": "9876543210"
+    },
+    {
+      "emis": "2345678901",
+      "name": "Priya Sundarajan",
+      "class": "10",
+      "section": "A",
+      "rollNo": "2",
+      "dob": "2009-07-22",
+      "phone": "9876543211"
+    },
+    {
+      "emis": "3456789012",
+      "name": "Rahul Murugesan",
+      "class": "10",
+      "section": "B",
+      "rollNo": "1",
+      "dob": "2009-01-10",
+      "phone": "9876543212"
+    },
+    {
+      "emis": "4567890123",
+      "name": "Divya Ramaswamy",
+      "class": "9",
+      "section": "A",
+      "rollNo": "3",
+      "dob": "2010-03-05",
+      "phone": "9876543213"
+    },
+    {
+      "emis": "5678901234",
+      "name": "Karthik Venkatesh",
+      "class": "9",
+      "section": "B",
+      "rollNo": "5",
+      "dob": "2010-11-18",
+      "phone": "9876543214"
+    },
+    {
+      "emis": "6789012345",
+      "name": "Meena Balakrishnan",
+      "class": "8",
+      "section": "A",
+      "rollNo": "7",
+      "dob": "2011-06-30",
+      "phone": "9876543215"
+    },
+    {
+      "emis": "7890123456",
+      "name": "Suresh Nataraj",
+      "class": "8",
+      "section": "A",
+      "rollNo": "12",
+      "dob": "2011-09-14",
+      "phone": "9876543216"
+    },
+    {
+      "emis": "8901234567",
+      "name": "Ananya Pillai",
+      "class": "11",
+      "section": "A",
+      "rollNo": "4",
+      "dob": "2008-02-28",
+      "phone": "9876543217"
+    },
+    {
+      "emis": "9012345678",
+      "name": "Vijay Selvam",
+      "class": "11",
+      "section": "B",
+      "rollNo": "9",
+      "dob": "2008-08-08",
+      "phone": "9876543218"
+    }
+  ]
+}
