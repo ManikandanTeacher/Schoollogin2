@@ -1,0 +1,100 @@
+{
+  "date": "2026-04-07",
+  "homework": {
+    "8": [
+      {
+        "icon": "\ud83d\udcd0",
+        "subject": "Mathematics",
+        "task": "Exercise 5.3 \u2014 Q1 to Q10, page 87. Show all working steps."
+      },
+      {
+        "icon": "\ud83d\udd2c",
+        "subject": "Science",
+        "task": "Draw and label the diagram of the human digestive system. Pg 112."
+      },
+      {
+        "icon": "\ud83d\udcd6",
+        "subject": "English",
+        "task": "Write a paragraph (100 words) on 'My Favourite Season'."
+      }
+    ],
+    "9": [
+      {
+        "icon": "\ud83d\udcd0",
+        "subject": "Mathematics",
+        "task": "Chapter 6 \u2014 Coordinate Geometry. Solve examples 1\u20135, pg 103."
+      },
+      {
+        "icon": "\u2697\ufe0f",
+        "subject": "Chemistry",
+        "task": "Balance the chemical equations given in worksheet #4."
+      },
+      {
+        "icon": "\ud83c\udf0d",
+        "subject": "Social Science",
+        "task": "Read chapter on French Revolution and answer Q&A on pg 58."
+      },
+      {
+        "icon": "\ud83d\udcd6",
+        "subject": "English",
+        "task": "Complete grammar exercises on Active & Passive Voice, pg 44\u201345."
+      }
+    ],
+    "10": [
+      {
+        "icon": "\ud83d\udcd0",
+        "subject": "Mathematics",
+        "task": "Trigonometry \u2014 Prove identities 1 to 6 from exercise 8.4, pg 192."
+      },
+      {
+        "icon": "\ud83d\udd2d",
+        "subject": "Physics",
+        "task": "Numericals on Ohm's Law \u2014 Ch 12, Q3, Q5, Q8."
+      },
+      {
+        "icon": "\ud83e\uddec",
+        "subject": "Biology",
+        "task": "Write notes on Mitosis vs Meiosis with diagrams."
+      },
+      {
+        "icon": "\ud83d\udcd6",
+        "subject": "English",
+        "task": "Read 'The Necklace' and prepare a character sketch of Mathilde."
+      }
+    ],
+    "11": [
+      {
+        "icon": "\ud83d\udcd0",
+        "subject": "Mathematics",
+        "task": "Differentiation \u2014 Exercise 13.2, attempt all problems."
+      },
+      {
+        "icon": "\u269b\ufe0f",
+        "subject": "Physics",
+        "task": "Numericals on Electrostatics chapter, pg 34 worksheet."
+      },
+      {
+        "icon": "\ud83e\uddea",
+        "subject": "Chemistry",
+        "task": "Complete the p-Block elements notes up to Group 15."
+      }
+    ],
+    "12": [
+      {
+        "icon": "\ud83d\udcd0",
+        "subject": "Mathematics",
+        "task": "Integration by Parts \u2014 Practice set B, all 12 questions."
+      },
+      {
+        "icon": "\ud83d\udcbb",
+        "subject": "Computer Science",
+        "task": "Write a Python program to implement bubble sort. Submit on paper."
+      },
+      {
+        "icon": "\ud83d\udcd6",
+        "subject": "English",
+        "task": "Flamingo: Answer the long-answer questions for 'The Last Lesson'."
+      }
+    ]
+  }
+}
